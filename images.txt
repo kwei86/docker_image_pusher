@@ -4,7 +4,7 @@
 #xhofe/alist:latest
 ##支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-#--platform=linux/x86_64 nginx
+#--platform=linux/x86-64 nginx
 #--platform=linux/x86-64 mysql
-mysql5.7
+--platform=linux/amd64 mysqlmysql5.7
 centos7

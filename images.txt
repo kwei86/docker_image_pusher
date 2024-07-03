@@ -7,5 +7,6 @@
 #--platform=linux/x86-64 nginx
 #--platform=linux/x86-64 mysql
 #--platform=linux/amd64 nginx
-centos7
+nginx:latest
+mysql:latest
 

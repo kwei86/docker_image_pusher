@@ -6,6 +6,6 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/x86-64 nginx
 #--platform=linux/x86-64 mysql
-centos:centos7.9.2009
-centos:centos7
+#centos:centos7.9.2009
+mysql:5.7.45
 
